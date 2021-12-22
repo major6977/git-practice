@@ -4,13 +4,53 @@
     box-sizing: border-box;
 }
 
-h1, h2 , h3, h4, h5 {
+h1 {
     color: rgb(76, 0, 255);
     position: relative;
     margin: 50px 40px;
     border-radius: 20px;
     text-align: center;
-    background-color: #bbff00de;
+    background-color: hsla(76, 100%, 50%, 0.871);
     padding: 15%;  
 }
+
+h2 {
+    color: crimson;
+    position: relative;
+    margin: 50px 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(255, 208, 0) ;
+    padding: 15%;  
+}
+h3 {
+    color: rgb(100, 175, 237);
+    position: relative;
+    margin: 50px 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(3, 3, 0, 0.884);
+    padding: 15%;  
+}
+
+h4 {
+    color: black;
+    position: relative;
+    margin: 50px 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #ff0000de;
+    padding: 15%;  
+}
+
+h5 {
+    color: white;
+    position: relative;
+    margin: 50px 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #4400ffde;
+    padding: 15%;  
+}
+
 

@@ -1,5 +1,5 @@
 
 
 function changeColor() {
-    document.getElementById("redText").style.color = "red";
+    document.getElementById("redText").background= "black";
 }
